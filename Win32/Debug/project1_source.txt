@@ -1,0 +1,4 @@
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+  MessageBox(0,'aaa','bbb',0);
+end;
